@@ -4,7 +4,7 @@
 
 ![](./previews.png)
 I Forked it so that I could remember this project nothing special here.
-
+![](https://avatars.githubusercontent.com/u/84921504?s=40&v=4)
 
 <ul>
 A beautiful and clean WEB Music Player by HTML5. [demo here](http://cplayer.js.org/).
