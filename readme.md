@@ -3,7 +3,7 @@
 [![](https://badge.fury.io/js/cplayer.svg)](https://www.npmjs.com/package/cplayer) [![GitHub stars](https://img.shields.io/github/stars/MoePlayer/cPlayer.svg?style=social&label=Star&style=plastic)](https://github.com/MoePlayer/cPlayer) ![](http://img.badgesize.io/https://raw.githubusercontent.com/MoePlayer/cPlayer/master/dist/cplayer.js?compression=gzip)
 
 ![](./previews.png)
-
+I Forked it so that I could remember this project nothing special here.
 A beautiful and clean WEB Music Player by HTML5. [demo here](http://cplayer.js.org/).
 
 # Feature
